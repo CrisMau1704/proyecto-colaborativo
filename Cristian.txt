@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Nombre: Cristian Illanes
 Carrera: Ingeniería de Sistemas
 Correo: cristian.illanes@uab.edu.bo
 
+=======
+nombre completo: Cristian Illanes  Zambrano
+carrera: Ing en sistemas 
+correo institucional: cristian.illanes@uab.edu.bo
+>>>>>>> dev
